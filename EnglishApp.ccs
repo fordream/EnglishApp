@@ -1,0 +1,25 @@
+<Solution>
+  <PropertyGroup Name="EnglishApp" Version="2.0.6.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" />
+        <Project Name="GameScene.csd" />
+        <Project Name="TransitionScene.csd" />
+        <Folder Name="scenes">
+          <Folder Name="scene_1">
+            <Image Name="Bg.png" />
+            <Image Name="chair.png" />
+            <Image Name="door.png" />
+            <Image Name="plant.png" />
+            <Image Name="sofa.png" />
+            <Image Name="table.png" />
+            <Image Name="television.png" />
+            <Image Name="window.png" />
+          </Folder>
+        </Folder>
+        <Project Name="gamescene_1.csd" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
